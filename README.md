@@ -18,7 +18,7 @@
 
 - 👯 I’m interested on **Explainable AI(XAI)**
 - 🌐 I’m interested on **Large Language Model**
-- 🔄 I’m interested on **ChatBot**
+
 
 - 📫 How to reach me **medali.farhat@esprit.tn**
 <h1 align="center">Also, I'm interested in Business Intelligence Systems </h1>
