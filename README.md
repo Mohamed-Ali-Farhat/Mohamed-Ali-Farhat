@@ -5,29 +5,29 @@
 <h3 align="center">A passionate Ai Student</h3>
 <img align="right" alt="Coding"  width="400"   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+- 🤖 I’m currently Focusing  on **Agentic Ai**
+  
+-  📠 I’m currently working on **Large Language Models & MultiModality**
+  
 - 💽 I’m currently working on **Deep Learning**
 
 - 🔭 I’m currently working on **Natural Language Processing (NLP)**
 
-- 👯 I’m currently working on **Supervised,Unsupervised Machine Learning**
+- 👯 I’m currently working on **Machine Learning**
 
 - 📡 I’m currently working on **Image Classification /Regression**
 
-- 📠 I’m currently working on **Image Recognition , Face Recognition**
+
 
 - 👯 I’m interested on **Explainable AI(XAI)**
-- 🌐 I’m interested on **Large Language Model**
+
 
 
 - 📫 How to reach me **medali.farhat@esprit.tn**
 <h1 align="center">Also, I'm interested in Business Intelligence Systems </h1>
 
 
-- 🔄 I’m currently working on **Data Warehousing**
-- 🔄 I’m currently working on **Dashboarding**
-- 📠 I’m working with **SSIS**
-- 💽 I’m currently working with **Power Bi**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="med ali farhat" height="30" width="40" /></a>
