@@ -23,8 +23,11 @@
 
 
 
-- 📫 How to reach me 
+- 📫 How to reach me
+  
 📧 Email: **medali.farhat@esprit.tn**
+
+
 🔗 LinkedIn: **Mohamed Ali Farhat**
 <h1 align="center">Also, I'm interested in Explainable Ai XAi </h1>
 
