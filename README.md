@@ -19,12 +19,14 @@
 
 
 
-- 👯 I’m interested on **Explainable AI(XAI)**
 
 
 
-- 📫 How to reach me **medali.farhat@esprit.tn**
-<h1 align="center">Also, I'm interested in Business Intelligence Systems </h1>
+
+- 📫 How to reach me 
+📧 Email: **medali.farhat@esprit.tn**
+🔗 LinkedIn: **Mohamed Ali Farhat**
+<h1 align="center">Also, I'm interested in Explainable Ai XAi </h1>
 
 
 
